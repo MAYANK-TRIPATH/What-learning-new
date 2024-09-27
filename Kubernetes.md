@@ -1,4 +1,4 @@
-# 28.1 | Kubernetes Part 3
+# Kubernetes
 
 To run a Kubernetes (k8s) cluster on a cloud provider like AWS, GCP, DigitalOcean, or Vultr, follow these steps. The instructions will cover creating a cluster, configuring your local environment, and deploying an application.
 
